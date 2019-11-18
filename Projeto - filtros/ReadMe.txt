@@ -1,4 +1,4 @@
-** Projeto - Filtros **
+**Projeto** - Filtros**
 
 O projeto consiste em um programa de processamento de imagem.
 
